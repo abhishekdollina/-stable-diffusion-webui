@@ -1,3 +1,5 @@
+
+git pull
 @echo off
 
 set PYTHON=
